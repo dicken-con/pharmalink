@@ -9,14 +9,10 @@
 | Nom | Rôle | GitHub | Participation |
 |---|---|---|---|
 | [N'GOMA MABIALA RICKEN JAIBESS ] | Chef de Projet | dicken-con| Création du dépôt, architecture initiale, creation de tout les dossier , dossier public, validation finale et merge vers `main` |
-
 | [OUSMANE FALL] | QA  | fallousmanenoreyni-debug|  tests fonctionnels, vérification responsive , dossier data , dossier pages , dossier services  |
-
 | [AICHA DIAKHATE] | Développeur 1 |  aicha-coder| dossier assets, dossier composants, dossier context|
-
 | [COUMBA DIOP] | Développeur  2 | Diop 2020| dossier hooks , dossier layouts  |
-
-| [KORKA DIALLO] | Développeur  3 | kaorka-Diallo| dossier composants , dossier layouts  |
+| [KORKA DIALLO] | Développeur  3 | kaorka-Diallo| dossier styles , dossier types  |
 ---
 
 ## 🌿 Branches
